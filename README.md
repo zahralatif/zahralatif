@@ -20,7 +20,7 @@
 -->
 ---
 [![](https://visitcount.itsvg.in/api?id=zahralatif&icon=0&color=6)](https://visitcount.itsvg.in)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H210O5QN)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
