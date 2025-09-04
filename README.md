@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Current Project: Building a ChatBot for a university project, exploring conversational AI.<br>🌱 Learning: Enhancing my backend skills with Nest.js.<br>👯 Collaboration: Open to working on innovative applications with passionate developers.<br>🤝 Networking: Always eager to connect with like-minded developers and tech enthusiasts.<br>⚡ Fun Fact: Bitter chocolate is even better when paired with pistachios!
+🔭 Current Project: Building a ChatBot for a university project, exploring conversational AI.<br>
+<!--🌱 Learning: Enhancing my backend skills with Nest.js.<br> -->
+👯 Collaboration: Open to working on innovative applications with passionate developers.<br>
+🤝 Networking: Always eager to connect with like-minded developers and tech enthusiasts.<br>
+⚡ Fun Fact: Bitter chocolate is even better when paired with pistachios!
 
 
 ## 🌐 Socials:
