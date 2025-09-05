@@ -23,9 +23,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zahralatif&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
--->
+
 ---
-[![](https://visitcount.itsvg.in/api?id=zahralatif&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zahralatif&icon=0&color=6)](https://visitcount.itsvg.in)-->
+---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H210O5QN)
 
 ### ✍️ Random Dev Quote
